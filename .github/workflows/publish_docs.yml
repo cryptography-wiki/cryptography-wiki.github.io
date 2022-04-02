@@ -1,20 +1,19 @@
-name: Deploy to Github Pages
+name: Publish docs via GitHub Pages
 on:
   push:
     branches:
       - master
-      - main
 jobs:
-  deploy:
+  build:
+    name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force
+      - name: Checkout Master
+        uses: actions/checkout@v2
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
