@@ -38,9 +38,10 @@ nav:
       - asymmetric/HNP/Hidden Number Problems/abstract.md
       - 第一章 介绍:
         - asymmetric/HNP/Hidden Number Problems/Chapter1/introduction.md
-      - 第四章 位安全:
+      - 第四章 比特安全:
         - asymmetric/HNP/Hidden Number Problems/Chapter4/introduction.md
         - asymmetric/HNP/Hidden Number Problems/Chapter4/4.1 Motivation.md
+        - asymmetric/HNP/Hidden Number Problems/Chapter4/4.1 Framework.md
 - 流密码:
   - stream/introduction.md
 - 哈希函数:
