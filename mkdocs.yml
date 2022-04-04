@@ -35,8 +35,7 @@ nav:
   - asymmetric/introduction.md
   - HNP:
     - Hidden Number Problems:
-      - 摘要:
-        - asymmetric/HNP/Hidden Number Problems/abstract.md
+      - asymmetric/HNP/Hidden Number Problems/abstract.md
       - 第一章 介绍:
         - asymmetric/HNP/Hidden Number Problems/Chapter1/introduction.md
       - 第四章 位安全:
