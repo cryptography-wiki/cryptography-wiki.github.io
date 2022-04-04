@@ -41,7 +41,7 @@ nav:
       - 第四章 比特安全:
         - asymmetric/HNP/Hidden Number Problems/Chapter4/introduction.md
         - asymmetric/HNP/Hidden Number Problems/Chapter4/4.1 Motivation.md
-        - asymmetric/HNP/Hidden Number Problems/Chapter4/4.1 Framework.md
+        - asymmetric/HNP/Hidden Number Problems/Chapter4/4.2 Framework.md
 - 流密码:
   - stream/introduction.md
 - 哈希函数:
