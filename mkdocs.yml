@@ -1,7 +1,7 @@
 site_name: Cryptography-Wiki
 site_description: Cryptography-Wiki
 site_author: Cryptography-Wiki Team
-site_url: https://cryptography-wiki.github.io
+site_url: https://cryptography-wiki.org
 repo_name: cryptography-wiki/cryptography-wiki
 repo_url: https://github.com/cryptography-wiki/cryptography-wiki.github.io
 edit_uri: blob/master/docs/
