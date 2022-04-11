@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/4.4%20Types%20of%20Partial%20Information/</loc>
+         <lastmod>2022-04-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/introduction/</loc>
          <lastmod>2022-04-11</lastmod>
          <changefreq>daily</changefreq>
