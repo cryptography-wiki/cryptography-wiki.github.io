@@ -18,5 +18,12 @@ jobs:
           path: .cache
       - run: pip install -r requirements.txt
       - run: mkdocs build
-      - run: echo 'cryptography-wiki.org' > ./site/CNAME
-      - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
+      # - run: echo 'cryptography-wiki.org' > ./site/CNAME
+      # - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: site # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
