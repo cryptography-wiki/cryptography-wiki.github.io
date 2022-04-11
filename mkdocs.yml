@@ -43,6 +43,7 @@ nav:
         - asymmetric/HNP/Hidden Number Problems/Chapter4/4.1 Motivation.md
         - asymmetric/HNP/Hidden Number Problems/Chapter4/4.2 Framework.md
         - asymmetric/HNP/Hidden Number Problems/Chapter4/4.3 Diffie-Hellman and the Hidden Number Problem.md
+        - asymmetric/HNP/Hidden Number Problems/Chapter4/4.4 Types of Partial Information.md
       - asymmetric/HNP/Hidden Number Problems/references.md
 - 流密码:
   - stream/introduction.md
