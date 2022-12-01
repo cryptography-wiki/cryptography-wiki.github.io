@@ -47,6 +47,8 @@ nav:
       - 第六章 选择乘数隐藏数问题:
         - asymmetric/HNP/Hidden Number Problems/Chapter6/introduction.md
         - asymmetric/HNP/Hidden Number Problems/Chapter6/6.1 Linear Operations.md
+        - 6.2 应用:
+          - asymmetric/HNP/Hidden Number Problems/Chapter6/6.2 Applications/6.2.1 Bit Security of non-uniform Diffie-Hellman Related Schemes.md
       - asymmetric/HNP/Hidden Number Problems/references.md
 - 流密码:
   - stream/introduction.md
