@@ -28,7 +28,7 @@ plugins:
     minify_html: true
 nav:
 - 关于:
-  - about/index.md
+  - index.md
 - 对称密码:
   - symmetric/introduction.md
 - 非对称密码:
@@ -50,6 +50,7 @@ nav:
         - 6.2 应用:
           - asymmetric/HNP/Hidden Number Problems/Chapter6/6.2 Applications/6.2.1 Bit Security of non-uniform Diffie-Hellman Related Schemes.md
           - asymmetric/HNP/Hidden Number Problems/Chapter6/6.2 Applications/6.2.2 Hardness of Computing Bits of Diffie–Hellman Keys in Different Group Representations Simultaneously.md
+        - asymmetric/HNP/Hidden Number Problems/Chapter6/6.3 Non-linear Operations.md
       - asymmetric/HNP/Hidden Number Problems/references.md
 - 流密码:
   - stream/introduction.md
