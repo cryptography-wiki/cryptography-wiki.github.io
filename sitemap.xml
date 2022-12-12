@@ -1,108 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cryptography-wiki.org/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <loc>https://cryptography-wiki.org/about/</loc>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/abstract/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/references/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter1/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/4.1%20Motivation/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/4.2%20Framework/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/4.3%20Diffie-Hellman%20and%20the%20Hidden%20Number%20Problem/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/4.4%20Types%20of%20Partial%20Information/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter4/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/6.1%20Linear%20Operations/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/6.2%20Applications/6.2.1%20Bit%20Security%20of%20non-uniform%20Diffie-Hellman%20Related%20Schemes/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/6.2%20Applications/6.2.2%20Hardness%20of%20Computing%20Bits%20of%20Diffie%E2%80%93Hellman%20Keys%20in%20Different%20Group%20Representations%20Simultaneously/</loc>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/hash/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/post-quantum/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/quantum/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/side-channel/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/stream/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cryptography-wiki.org/symmetric/introduction/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
