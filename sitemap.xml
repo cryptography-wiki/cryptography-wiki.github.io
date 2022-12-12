@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cryptography-wiki.org/about/</loc>
+         <loc>https://cryptography-wiki.org/</loc>
          <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -62,6 +62,11 @@
     </url>
     <url>
          <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/6.1%20Linear%20Operations/</loc>
+         <lastmod>2022-12-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cryptography-wiki.org/asymmetric/HNP/Hidden%20Number%20Problems/Chapter6/6.3%20Non-linear%20Operations/</loc>
          <lastmod>2022-12-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
