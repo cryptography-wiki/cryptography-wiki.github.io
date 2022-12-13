@@ -54,6 +54,8 @@ nav:
       - asymmetric/HNP/Hidden Number Problems/references.md
 - 流密码:
   - stream/introduction.md
+  - 伪随机数生成器:
+    - stream/prng/MT19937.md
 - 哈希函数:
   - hash/introduction.md
 - 量子密码:
